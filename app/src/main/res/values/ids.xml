@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="jnNumero1" type="id">int</item>
+    <item name="jnNumero2" type="id">int</item>
+    <item name="button" type="id">String</item>
+</resources>
